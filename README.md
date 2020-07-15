@@ -1,16 +1,18 @@
-### Hi there 👋
+### I am happy that you landed on My GitHub Profile  :sunglasses: 
+##### I just love being a Geek :computer:
+--> From India    :india: 
 
-<!--
-**Ayushman09/Ayushman09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You Know who I Am! <br>
+No? :sweat_smile: <br>
+Have a look :arrow_heading_down:
+- 🔭 I’m currently working on Python3 Matplotlib & Tensorflow
+- 🌱 I’m currently learning NumPy, Scikit-Learn, Matplotlib, Tensorflow & soon PyTorch
+- 👯 I’m looking to collaborate on Machine Learning Projects or Small scale AI Projects
+- 🤔 I’m looking for help with the same mentioned above. I would love to work with people with experience in the above mentioned areas. :100:
 
-Here are some ideas to get you started:
+- 📫 How to reach me:
+[Instagram](https://www.instagram.com/ayushman9.11) [YouTube](https://www.youtube.com/channel/UCmBzEm2eySjNyGw4xQ8YkqQ/) 💬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Hobbies: Listening Songs :musical_score: , Singing :studio_microphone: Playing Cricket :cricket_game:, Volleyball :volleyball:, Football :soccer:
 -->
+👋
