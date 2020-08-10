@@ -11,8 +11,11 @@ No? :sweat_smile: <br>
 Have a look :arrow_heading_down:
 <section>
 - 🔭 I’m currently working on Machine Learning with Python3
+ 
 - 🌱 I’m currently learning NumPy, Scikit-Learn, Matplotlib, Tensorflow & soon PyTorch
+ 
 - 👯 I’m looking to collaborate on Machine Learning Projects or Small scale AI Projects
+ 
 - 🤔 I’m looking for help with the same mentioned above. I would love to work with people with experience in the above mentioned areas. :100:
 
 - ⚡ Hobbies: Listening Songs :musical_score: , Singing :studio_microphone: , Playing Cricket :cricket_game:, Volleyball :volleyball:, Football :soccer:
