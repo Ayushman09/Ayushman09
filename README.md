@@ -2,7 +2,7 @@
 #### I just love being a Geek :computer:
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayushmanchak@gmail.com)](mailto:ayushmanchak@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Ayushman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushhmanchakravarty)](https://www.linkedin.com/in/ayushhman09)
+[![Linkedin Badge](https://img.shields.io/badge/-Ayushman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushhmanchakravarty)](https://www.linkedin.com/in/ayushman09)
 [![Youtube Channel](https://img.shields.io/badge/-Ayushman%20Chakravarty-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCmBzEm2eySjNyGw4xQ8YkqQ)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
 ![](https://komarev.com/ghpvc/?username=Ayushman09&color=blue&label=GitHub+Profile+Views)
  <br> 👋 <br>
@@ -69,6 +69,6 @@ Have a look :arrow_heading_down:
 [website]: https://www.github.com/Ayushman09/
 [twitter]: https://twitter.com/_Ayushman9_
 [youtube]: https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA
-[linkedin]: https://www.linkedin.com/in/ayushhman09/
+[linkedin]: https://www.linkedin.com/in/ayushman09/
 [instagram]: https://www.instagram.com/ayushman9.11/
 
