@@ -68,7 +68,7 @@ Have a look :arrow_heading_down:
 
 [website]: https://www.github.com/Ayushman09/
 [twitter]: https://twitter.com/_Ayushman9_
-[youtube]: https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA
+[youtube]: https://www.youtube.com/channel/UCmBzEm2eySjNyGw4xQ8YkqQ
 [linkedin]: https://www.linkedin.com/in/ayushman09/
-[instagram]: https://www.instagram.com/ayushman9.11/
+[instagram]: https://www.instagram.com/ayushman9__/
 
