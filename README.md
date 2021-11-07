@@ -12,11 +12,11 @@ No? :sweat_smile: <br>
 Have a look :arrow_heading_down:
 <section>
  
-- 🔭 I’m currently working on Machine Learning with Python3
+- 🔭 I’m currently working as a Backend Developer and Automation Engineer using Python
  
-- 🌱 I’m currently learning NumPy, Scikit-Learn, Matplotlib, Tensorflow & soon PyTorch
+- 🌱 I’m currently learning API Development and Machine Learning
  
-- 👯 I’m looking to collaborate on Machine Learning Projects or Small scale AI Projects
+- 👯 I’m looking to collaborate on Machine Learning Projects or Small scale Web Projects
  
 - 🤔 I’m looking for help with the same mentioned above. I would love to work with people with experience in the above mentioned areas. :100:
 
