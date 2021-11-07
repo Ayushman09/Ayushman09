@@ -3,7 +3,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayushmanchak@gmail.com)](mailto:ayushmanchak@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Ayushman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushhmanchakravarty)](https://www.linkedin.com/in/ayushman09)
-[![Youtube Channel](https://img.shields.io/badge/-Ayushman%20Chakravarty-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCmBzEm2eySjNyGw4xQ8YkqQ)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
+[![Youtube Channel](https://img.shields.io/badge/-Ayushman%20Chakravarty-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCmBzEm2eySjNyGw4xQ8YkqQ)](https://www.youtube.com/channel/UCmBzEm2eySjNyGw4xQ8YkqQ)
 ![](https://komarev.com/ghpvc/?username=Ayushman09&color=blue&label=GitHub+Profile+Views)
  <br> 👋 <br>
 --> From India    :india: <br>
