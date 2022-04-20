@@ -12,11 +12,11 @@ No? :sweat_smile: <br>
 Have a look :arrow_heading_down:
 <section>
  
-- 🔭 I’m currently working as a Backend Developer and Automation Engineer using Python
+- 🔭 I’m currently working as a Backend Developer and Automation Development using Python, NodeJs.
  
-- 🌱 I’m currently learning API Development and Machine Learning
+- 🌱 I’m currently learning Devops and Utility tools.
  
-- 👯 I’m looking to collaborate on Machine Learning Projects or Small scale Web Projects
+- 👯 I’m looking to collaborate as a Freelancing Backend Developer or Small scale Full Stack Web Projects(FE- HTML+CSS/React, BE- Node/Django/Flask)
  
 - 🤔 I’m looking for help with the same mentioned above. I would love to work with people with experience in the above mentioned areas. :100:
 
