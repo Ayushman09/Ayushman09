@@ -4,7 +4,13 @@ Portfolio Link: https://ayush-dev-blogs.herokuapp.com/ <br> <br>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayushmanchak@gmail.com)](mailto:ayushmanchak@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Ayushman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushhmanchakravarty)](https://www.linkedin.com/in/ayushman09)
 [![Youtube Channel](https://img.shields.io/badge/-Ayushman%20Chakravarty-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCmBzEm2eySjNyGw4xQ8YkqQ)](https://www.youtube.com/channel/UCmBzEm2eySjNyGw4xQ8YkqQ)
-![](https://komarev.com/ghpvc/?username=Ayushman09&color=blue&label=GitHub+Profile+Views)
+![](https://komarev.com/ghpvc/?username=Ayushman09&color=blue&label=GitHub+Profile+Views) 
+<a href="https://leetcode.com/sudiptob2/">
+    <img src="https://cp-logo.vercel.app/leetcode/__Ayushman__" alt="LeetCode Rating" />
+  </a>
+  <a href="https://github.com/Ayushman09?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ayushman09?color=green&logo=github">
+  </a>
  <br> 👋 <br>
 --> From India    :india: <br>
 You Know who I Am! <br>
@@ -46,7 +52,19 @@ Have a look :arrow_heading_down:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
-<br /> </div>
+<br />
+<b>&#128200; Problem Solving Coding</b>
+<p float="left">
+<img height="180em" src="https://leetcard.jacoblin.cool/__Ayushman__?theme=light&font=Karma&ext=contest" />
+</p>
+</div>
+
+<b>⚡ Github Stats</b>
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayushman09&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushman09&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
 
 ### Connect with me:  💬
 
@@ -58,13 +76,6 @@ Have a look :arrow_heading_down:
 <br>
 
 
-<a href="https://github.com/Ayushman09">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ayushman09&show_icons=true" />
-</a>
-<a href="https://github.com/Ayushman09">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushman09" />
-</a> 
-<br><br><br><br><br><br><br>
 
 [website]: https://www.github.com/Ayushman09/
 [twitter]: https://twitter.com/_Ayushman9_
